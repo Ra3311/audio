@@ -1,1 +1,1 @@
-lowNetwork.mp3;outOfFence.mp3;beep.mp3;lockEngaged.mp3;batteryLowWarning.mp3;autoEndWarning.mp3;autoEnd.mp3;criticalBattery.mp3;
+lowNetwork.mp3;outOfFence.mp3;beep.mp3;
